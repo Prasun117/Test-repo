@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Prasun-component-test-1
+  name: nested-catalog-test
   description: nested-catalog-test
   tags:
     - java
